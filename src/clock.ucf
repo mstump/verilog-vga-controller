@@ -1,0 +1,17 @@
+# This is a "user constraints file" that describes 
+# the pin-out of the Demand Peripherals Baseboard4. 
+NET "clk50"       	 	LOC="P38";
+NET "vsync_out" 		LOC="P92";
+NET "hsync_out"		 	LOC="P78";
+NET "blue_out"			LOC="P79";
+NET "green_out"			LOC="P94";
+NET "red_out"			LOC="P98";
+
+# NET "SV1<0>"   LOC = "P92"  ; 
+# NET "SV1<1>"   LOC = "P78"  ; 
+# NET "SV1<2>"   LOC = "P79"  ; 
+# NET "SV1<3>"   LOC = "P94"  ; 
+# NET "SV1<4>"   LOC = "P98"  ; 
+# NET "SV1<5>"   LOC = "P83"  ; 
+# NET "SV1<6>"   LOC = "P84"  ; 
+# NET "SV1<7>"   LOC = "P85"  ;
